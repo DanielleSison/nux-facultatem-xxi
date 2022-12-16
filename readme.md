@@ -24,7 +24,7 @@ Expect to click on the drop down menu to navigate through the page sections. Sev
 
 ## Page Preview
 
-![Nux Online Portfolio screenshot](./assets/images/portfolio-screenshot2.png)
+![Nux Online Portfolio screenshot](./assets/images/portfolio-screenshot.png)
 
 ## Credits
 
