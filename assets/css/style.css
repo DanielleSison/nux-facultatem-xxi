@@ -46,6 +46,7 @@ header div {
     float: right;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
+    flex-wrap: wrap;
 
 }
 
@@ -284,4 +285,8 @@ footer {
 }
 
 @media screen and (min-width: 768px) {
+    .projectimg1, .projectimg2,{
+        width: 75%;
+        
+    }
 }
