@@ -19,7 +19,7 @@ N/A
 
 ## Usage
 
-Expect to click on the drop down menu to navigate through the page sections. Several external links were added into images and text to redirect into GitHub, GitHub repository, and LinkedIn. Read through the Above Me section to learn more about the developer, click through the projet links to inspect previous coding projects, and learn more about the creator through her personal GitHub and LinkedIn profile.
+Expect to click on the drop down menu to navigate through the page sections. Several external links were added into images and text to redirect into GitHub, GitHub repository, and LinkedIn. Read through the Above Me section to learn more about the developer, click through the project links to inspect previous coding projects, and learn more about the creator through her personal GitHub and LinkedIn profile.
 
 
 ## Page Preview
